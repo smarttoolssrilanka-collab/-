@@ -1,0 +1,5 @@
+{
+  "name": "Sinhala Daily Horoscope Generator",
+  "description": "An application that generates a personalized daily horoscope in Sinhala based on user's astrological details using Gemini AI.",
+  "requestFramePermissions": []
+}
